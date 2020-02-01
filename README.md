@@ -1,2 +1,2 @@
-# HackerRankC-
+# HackerRankC++
 C++ problem Solving
